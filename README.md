@@ -60,6 +60,10 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 * [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 
+#### grep
+
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - Faster and more correct replacement for GNU grep that respects your gitignore.
+
 #### hexdump
 
 * [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
